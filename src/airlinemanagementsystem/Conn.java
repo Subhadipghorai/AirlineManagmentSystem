@@ -1,4 +1,4 @@
-package airlinemanagmentsystem;
+package airlinemanagementsystem;
 
 import java.sql.*;
 
